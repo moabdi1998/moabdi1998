@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moabdi1998
+- 👋 Hi, I’m Mohamed Abdi
 - 👀 I’m interested in front end side of develepoing
 - 🌱 I’m currently learning javascript and react
 - 💞️ I’m looking to collaborate on on fun projects related with front end developing
